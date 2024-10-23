@@ -24,7 +24,7 @@ custom_transformer.py: Contains the custom Transformer block used in the model a
 README.md: This documentation file.
 
 Setup Instructions
-Clone the repository: git clone https://github.com/yourusername/colette-threat-detection.git
+Clone the repository: git clone https://github.com/Feegex/colette-threat-detection.git
 Navigate to the project directory: cd colette-threat-detection
 Install the required dependencies: pip install -r requirements.txt
 Run the model: To train and evaluate the model, simply run: python colette.py
